@@ -1,5 +1,13 @@
-Carcarodonte
-Nubifrage
-Batumba
-Trolglo
+<<<<<<< HEAD
+
+
+
+
+
+=======
+Carcarodonte orlando
+Nubifrage orlando
+Batumba orlando
+Trolglo orlando
 Sparide
+>>>>>>> refs/remotes/origin/main
